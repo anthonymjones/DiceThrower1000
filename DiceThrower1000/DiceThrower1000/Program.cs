@@ -12,7 +12,9 @@ namespace DiceThrower1000
         {
             
             //call the ThrowDice function
-            ThrowDice("10d6");
+            ThrowDice("10d6"); 
+
+            ThrowDice("1d6");
             
             
             //keep window open
